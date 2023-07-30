@@ -1,7 +1,7 @@
 [
   {
     "title": "Genetic Algorithm Visualizer",
-    "image": "./projectImages/bike.png",
+    "image": "./projectImages/GAV.png",
     "description": "Genetic Algorithms are heuristic search and optimization techniques inspired by the process of natural selection. They are used to find solutions to complex problems and are particularly useful in optimization, search, and machine learning domains. With the Genetic Algorithm Visualizer, you can observe the step-by-step execution of a Genetic Algorithm, understand how populations evolve over generations, and witness the algorithm's ability to find optimal solutions.",
     "technologies": "JS | HTML | CSS",
     "github": "https://github.com/riishika/GENETIC-ALGORITHM-VISUALIZER",
@@ -11,7 +11,7 @@
   },
   {
     "title": "Personality Test",
-    "image": "./projectImages/weather.png",
+    "image": "./projectImages/PT.png",
     "technologies": "JS | HTML | CSS",
     "description": "This is a captivating web-based application that provides users with a unique and enlightening experience to delve into the depths of their personality. Through a series of thoughtfully designed and meticulously crafted questions, individuals are presented with a captivating journey of self-discovery. As they navigate through the test, users get an opportunity to gain valuable insights into their personality traits, preferences, and behaviors, leading to a greater understanding of themselves.",
     "github": "https://github.com/mdyeates/weather-app",
@@ -21,7 +21,7 @@
   },
   {
     "title": "Personal Portfolio",
-    "image": "./projectImages/team.png",
+    "image": "./projectImages/PP.png",
     "technologies": "JS | React | Git | Bootstrap | HTML | CSS",
     "description": "As a developer and enthusiast, I created this portfolio website to showcase my expertise, projects, and achievements to potential employers, collaborators, and the wider community. The website provides a comprehensive overview of my skills and experiences, highlighting my technical proficiency and passion for technology.",
     "github": "https://github.com/riishika/PORTFOLIO",
