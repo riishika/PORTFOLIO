@@ -14,8 +14,8 @@
     "image": "./projectImages/PT.png",
     "technologies": "JS | HTML | CSS",
     "description": "This is a captivating web-based application that provides users with a unique and enlightening experience to delve into the depths of their personality. Through a series of thoughtfully designed and meticulously crafted questions, individuals are presented with a captivating journey of self-discovery. As they navigate through the test, users get an opportunity to gain valuable insights into their personality traits, preferences, and behaviors, leading to a greater understanding of themselves.",
-    "github": "https://github.com/mdyeates/weather-app",
-    "deployed": "https://mdyeates.github.io/weather-app/",
+    "github": "https://github.com/riishika/PERSONALITY-TEST",
+    "deployed": "https://riishika.github.io/PERSONALITY-TEST/",
     "bgcolor": "#29cbe0",
     "id": "2"
   },
