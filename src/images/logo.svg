@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920.55 921.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #009e66;
+        font-size: 700px; /* Increase the font size for letter R */
+        font-family: Arial;
+      }
+
+      .cls-2 {
+        fill: #fefefe;
+        stroke: #000;
+        stroke-width: 10;
+        font-size: 700px; /* Increase the font size for letter K */
+        font-family: Arial;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <!-- Letter R -->
+      <text x="0" y="600" class="cls-1">R</text>
+      
+      <!-- Letter K -->
+      <text x="500" y="700" class="cls-2">K</text>
+    </g>
+  </g>
+</svg>
