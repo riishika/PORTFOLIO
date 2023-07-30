@@ -19,7 +19,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage" : "https://github.com/riishika/PORTFOLIO",
+    "homepage" : "https://riishika.github.io/PORTFOLIO/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
